@@ -1,5 +1,5 @@
 {
-    "repository": "",
+    "repository": "https://github.com/michelinehlu123837/amy",
     "stack": "container",
 	"env": {
       "APP_NAME" : {
